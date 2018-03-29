@@ -1,2 +1,2 @@
-https://github.com/vbuterin/pybitcointools/tarball/master
+https://github.com/seafooler/pybitcointools/tarball/master
 pyepm
